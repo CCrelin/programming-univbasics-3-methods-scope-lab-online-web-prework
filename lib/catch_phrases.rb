@@ -5,6 +5,12 @@ end
 
 def toadstool
   status = 'Thank You Mario! But Our Princess Is In Another Castle!'
-  warning = "It's Dangerous To Go Alone! Take This."
-  puts status, warning
+  puts status
 end
+
+def link
+  warning = "It's Dangerous To Go Alone! Take This."
+  puts warning
+end
+
+  
